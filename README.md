@@ -15,7 +15,7 @@ Key Objectives:
 
 Tools and Technologies:
     Programming Language: Python (utilizing libraries such as BeautifulSoup, Pandas).
-
+    Programming Platform: Jupyter Notebook.
     Version Control: Git for code versioning and collaboration.
 
 Ethical Considerations:
