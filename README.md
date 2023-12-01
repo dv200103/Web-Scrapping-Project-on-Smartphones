@@ -14,6 +14,7 @@ Key Objectives:
      Organize the scraped data into a structured format (e.g., CSV, JSON) for ease of analysis.
 
 Tools and Technologies:
+
     Programming Language: Python (utilizing libraries such as BeautifulSoup, Pandas).
     Programming Platform: Jupyter Notebook.
     Version Control: Git for code versioning and collaboration.
